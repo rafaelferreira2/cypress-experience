@@ -1,0 +1,18 @@
+{
+  "criacao": {
+    "name": "Ler um livro de node.js",
+    "is_done": false
+  },
+  "duplicada": {
+    "name": "Estudar javascript",
+    "is_done": false
+  },
+  "concluir": {
+    "name": "Pagar contas de consumo",
+    "is_done": false
+  },
+  "remove": {
+    "name": "Pagar fatura do cartão",
+    "is_done": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponta a ponta com Cypress",
+  "main": "index.js",
+  "author": "Rafael Ferreira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
